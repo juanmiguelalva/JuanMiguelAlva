@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Statistics:</h3>
 <div align="center" style="display: flex; flex-direction: row;">
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=dartilesm&show_icons=true&theme=radical" />
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartilesm&theme=radical&layout=compact" />
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark" />
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact" />
 </div>
 
 <table border="0">
