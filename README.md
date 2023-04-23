@@ -77,7 +77,9 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&" alt="juanmiguelalva" /></p> -->
 
-
+<img width="441" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&card_width=441" />
+<table border="0">
+  <img width="441" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&card_width=441" />
 <table border="0">
 <tr>
 <th align="center">
