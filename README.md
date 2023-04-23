@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=transparent&layout=compact&hide_border=false&card_width=465&title_color=ffffff&text_color=ffffff&border_color=30363d" />
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=transparent&hide_border=false&card_width=545&title_color=ffffff&text_color=ffffff&border_color=30363d" />
  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=transparent&hide_border=false&card_width=1100&title_color=ffffff&text_color=ffffff&border_color=30363d" alt="juanmiguelalva" />
-</div>
+</div> 
 
 <!-- <table border="0">
 <tr>
