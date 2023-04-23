@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </style>
 <table border="0" width="100">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
+    <td><div style="width:290px">property</div></td>
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
