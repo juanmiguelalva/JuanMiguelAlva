@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Laravel, .NET and SQL on [Open Bootcamp](https://open-bootcamp.com/).
 - 📄 My experience has allowed me to develop my ability to solve problems, make decisions and implement solutions.
 - ⚡ Fun fact: I'm passionate about graphic design and its role in user-friendly application development.
-- 📫 How to reach me: **juanmiguelalvabellido@gmail.com**.
+- 📫 How to reach me: juanmiguelalvabellido@gmail.com.
 
 <h3 align="center" style="margin-top:50px;">Profile Statistics</h3>
 <div align="center" style="display: flex; flex-direction: row;">
