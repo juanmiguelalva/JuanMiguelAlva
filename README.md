@@ -94,4 +94,7 @@ My GitHub Stats
 <img width="441" heigth="185" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true" alt="juanmiguelalva" />
 </th>
 </tr>
+<tr>
+  <td colspan="2"><img width="441" heigth="185" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark" alt="juanmiguelalva" /></td>
+</tr>
 </table>
