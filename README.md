@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 **Get to know a little more about me:**
 
 - 🌱 I’m currently learning Laravel and SQL on [Open Bootcamp](https://open-bootcamp.com/) 
-- 📫 **How to reach me:** **juanmiguelalvabellido@gmail.com**
-- 📄 **Know about my experiences:** My experience in application development has allowed me to develop my ability to solve problems, make decisions and implement solutions.
-- ⚡ **Fun fact:** I'm passionate about graphic design and its role in user-friendly application development.
+- 📄 My experience in application development has allowed me to develop my ability to solve problems, make decisions and implement solutions.
+- ⚡ Fun fact: I'm passionate about graphic design and its role in user-friendly application development.
+- 📫 How to reach me: **juanmiguelalvabellido@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
