@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Juan Miguel Alva Bellido</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px">, I'm Juan Miguel Alva Bellido</h1>
 <h3 align="center">My main goal as a professional is to add value to every project I'm involved in, using my knowledge and skills in designing, developing, and implementing efficient and scalable technological solutions.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmiguelalva&label=Profile%20views&color=0e75b6&style=flat" alt="juanmiguelalva" /> </p> -->
