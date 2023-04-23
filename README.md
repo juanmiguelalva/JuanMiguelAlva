@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; flex-direction: row;">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=false&card_width=460&border_color=30363d&bg_color=00000000" />&nbsp;&nbsp;
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=false&card_width=540&border_color=30363d&bg_color=00000000" />
- <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=transparent&hide_border=false&card_width=1100&border_color=30363d&bg_color=00000000" alt="juanmiguelalva" />
+ <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=transparent&hide_border=true&card_width=1100&border_color=30363d&bg_color=00000000" alt="juanmiguelalva" />
 </div> 
 
 <h3 align="center">Connect with me</h3>
