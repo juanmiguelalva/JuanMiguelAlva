@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Juan Miguel Alva Bellido</h1>
 <h3 align="center">My main goal as a professional is to add value to every project I'm involved in, using my knowledge and skills in designing, developing, and implementing efficient and scalable technological solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmiguelalva&label=Profile%20views&color=0e75b6&style=flat" alt="juanmiguelalva" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmiguelalva&label=Profile%20views&color=0e75b6&style=flat" alt="juanmiguelalva" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanmiguelalva" alt="juanmiguelalva" /></a> </p>
 
