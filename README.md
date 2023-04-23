@@ -92,11 +92,11 @@ My GitHub Stats
 </th>
 </tr>
 <tr>
-<td align="center">
+<th align="center">
   <img width="329.5" heigth="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&hide_title=true" alt="juanmiguelalva" />
-</td>
-<td align="center">
+</th>
+<th align="center">
 <img width="441" heigth="185" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true" alt="juanmiguelalva" />
-</td>
+</th>
 </tr>
 </table>
