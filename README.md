@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hi, I'm Juan Miguel Alva Bellido</h1>
-
-<!-- <h2 align="center">Welcome to my GitHub profile</h2> -->
+<h1 align="center"> <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hi, Welcome to my GitHub profile</h1>
 <h3 align="center">My goal: adding value to every project I'm involved in, through technological solutions.</h3>
 <br>
 
