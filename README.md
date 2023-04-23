@@ -55,7 +55,11 @@ Here are some ideas to get you started:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&locale=en" alt="juanmiguelalva" /></p>
-
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 <table border="0" width="100">
  <tr>
     <td><b style="font-size:30px">Title</b></td>
