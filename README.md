@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 **How to reach me:** **juanmiguelalvabellido@gmail.com**
 
-- 📄 **Know about my experiences:** My application development experience has developed my problem-solving skills, decision-making abilities, and solution implementation expertise. I keep abreast of IT trends, quality management and information security are crucial to achieve innovative, effective and reliable solutions.
+- 📄 **Know about my experiences:** My experience in application development has allowed me to develop my ability to solve problems, make decisions and implement solutions.
 
 - ⚡ **Fun fact:** I'm passionate about graphic design and its role in user-friendly application development.
 
