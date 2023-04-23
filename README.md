@@ -15,17 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hi, I'm Juan Miguel Alva Bellido</h1>
-<h3 align="center">My main goal as a professional is to add value to every project I'm involved in, using my knowledge and skills in designing, developing, and implementing efficient and scalable technological solutions.</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmiguelalva&label=Profile%20views&color=0e75b6&style=flat" alt="juanmiguelalva" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanmiguelalva" alt="juanmiguelalva" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<h3 align="center">My goal: adding value to every project I'm involved in, through technological solutions.</h3>
 
 - 📫 **How to reach me:** **juanmiguelalvabellido@gmail.com**
 
-- 📄 **Know about my experiences:** My experience in application development has allowed me to gain extensive experience in analyzing and resolving technological problems. In this way, I've developed skills in problem identification, decision-making, and implementation of effective solutions. Furthermore, my constant update in the latest trends and advances in information technology, coupled with my knowledge in quality management and information security, are fundamental to ensuring innovative, efficient, reliable, and high-quality technological solutions/
+- 📄 **Know about my experiences:** My experience in application development has allowed me to gain extensive experience in analyzing and resolving technological problems. In this way, I've developed skills in problem identification, decision-making, and implementation of effective solutions. Furthermore, my constant update in the latest trends and advances in information technology, coupled with my knowledge in quality management and information security, are fundamental to ensuring innovative, efficient, reliable, and high-quality technological solutions.
 
 - ⚡ **Fun fact:** I'm passionate about graphic design and other visual expression forms, and I believe they complement my experience in application development. In fact, designing intuitive and effective user interfaces is crucial in the development of technological solutions by improving the end-user experience when using an application or website.
 
