@@ -21,17 +21,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm passionate about graphic design and its role in user-friendly application development.
 - 📫 How to reach me: **juanmiguelalvabellido@gmail.com**
 
-<h3 align="center">Connect with me</h3>
-<div style="margin-bottom: 20px;">
-<p align="center"><a href="https://linkedin.com/in/juanmiguelalva" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="juanmiguelalva" height="30" width="40" /></a><a href="https://discord.gg/jmiguel#7782" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="jmiguel#7782" height="30" width="40" /></a></p>
-</div>
-
 <h3 align="center" style="margin-top:50px;">My Statistics</h3>
 <div align="center" style="display: flex; flex-direction: row;">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=false&card_width=465&border_color=30363d&bg_color=00000000" />
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=false&card_width=545&border_color=30363d&bg_color=00000000" />
 <!--  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=transparent&hide_border=false&card_width=1100&border_color=30363d&bg_color=00000000" alt="juanmiguelalva" /> -->
 </div> 
+
+<h3 align="center">Connect with me</h3>
+<div style="margin-bottom: 20px;">
+<p align="center"><a href="https://linkedin.com/in/juanmiguelalva" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="juanmiguelalva" height="30" width="40" /></a><a href="https://discord.gg/jmiguel#7782" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="jmiguel#7782" height="30" width="40" /></a></p>
+</div>
+
 
 <!-- <table border="0">
 <tr>
