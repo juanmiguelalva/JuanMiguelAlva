@@ -81,17 +81,10 @@ Here are some ideas to get you started:
 <table border="0">
 <tr>
 <th align="center">
-<img width="441" height="1px">
-<p>
-EXAMPLE TEXT
-</p>
+  <img width="441" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&locale=en&layout=compact" alt="juanmiguelalva" />
 </th>
 <th align="center">
-<img width="441" align="left" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&locale=en" alt="juanmiguelalva" />
-<!-- <img width="441" height="1"> -->
-<p>
-EXAMPLE TEXT
-</p>
+<img width="441" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&locale=en" alt="juanmiguelalva" />
 </th>
 </tr>
 <tr>
