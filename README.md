@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - 📫 **How to reach me:** **juanmiguelalvabellido@gmail.com**
 
-- 📄 **Know about my experiences:** My experience in application development has allowed me to gain extensive experience in analyzing and resolving technological problems. In this way, I've developed skills in problem identification, decision-making, and implementation of effective solutions. Furthermore, my constant update in the latest trends and advances in information technology, coupled with my knowledge in quality management and information security, are fundamental to ensuring innovative, efficient, reliable, and high-quality technological solutions.
+- 📄 **Know about my experiences:** My application development experience has developed my problem-solving skills, decision-making abilities, and solution implementation expertise. I keep abreast of IT trends, quality management and information security are crucial to achieve innovative, effective and reliable solutions.
 
-- ⚡ **Fun fact:** I'm passionate about graphic design and other visual expression forms, and I believe they complement my experience in application development. In fact, designing intuitive and effective user interfaces is crucial in the development of technological solutions by improving the end-user experience when using an application or website.
+- ⚡ **Fun fact:** I'm passionate about graphic design and its role in user-friendly application development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
