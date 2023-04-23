@@ -66,8 +66,12 @@ Here are some ideas to get you started:
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&locale=en&layout=compact" alt="juanmiguelalva" />
+   </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&locale=en" alt="juanmiguelalva" />
+   </td>
  </tr>
 </table>
 
