@@ -98,34 +98,6 @@ EXAMPLE TEXT
 </th>
 </tr>
 <tr>
-<td>
-
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
-</td>
-<td>
-  
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
-</td>
-</tr>
-<tr>
 <td align="center">
 Column 1
 </td>
