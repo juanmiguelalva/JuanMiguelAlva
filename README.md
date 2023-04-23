@@ -87,7 +87,8 @@ EXAMPLE TEXT
 </p>
 </th>
 <th align="center">
-<img width="441" height="1">
+<img width="441" align="left" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&locale=en" alt="juanmiguelalva" />
+<!-- <img width="441" height="1"> -->
 <p>
 EXAMPLE TEXT
 </p>
