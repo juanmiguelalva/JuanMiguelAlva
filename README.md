@@ -18,15 +18,12 @@ Here are some ideas to get you started:
 
 <!-- <h2 align="center">Welcome to my GitHub profile</h2> -->
 <h3 align="center">My goal: adding value to every project I'm involved in, through technological solutions.</h3>
-
 <br>
 
 **Get to know a little more about me:**
 
 - 📫 **How to reach me:** **juanmiguelalvabellido@gmail.com**
-
 - 📄 **Know about my experiences:** My experience in application development has allowed me to develop my ability to solve problems, make decisions and implement solutions.
-
 - ⚡ **Fun fact:** I'm passionate about graphic design and its role in user-friendly application development.
 
 <h3 align="left">Connect with me:</h3>
