@@ -85,18 +85,18 @@ Here are some ideas to get you started:
 <table border="0">
 <tr>
 <th align="center">
-  <img width="329.5" heigth="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&hide_title=true" alt="juanmiguelalva" />
+Most Used Languages
 </th>
 <th align="center">
-<img width="441" heigth="185" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true" alt="juanmiguelalva" />
+My GitHub Stats
 </th>
 </tr>
 <tr>
 <td align="center">
-Column 1
+  <img width="329.5" heigth="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&hide_title=true" alt="juanmiguelalva" />
 </td>
 <td align="center">
-Column 3
+<img width="441" heigth="185" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true" alt="juanmiguelalva" />
 </td>
 </tr>
 </table>
