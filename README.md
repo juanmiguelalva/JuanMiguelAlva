@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </table> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&" alt="juanmiguelalva" /></p> -->
- 
+<h3 align="left">My Stats:</h3>
 <table border="0">
 <tr>
 <th align="center">
