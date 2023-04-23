@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm passionate about graphic design and its role in user-friendly application development.
 - 📫 How to reach me: juanmiguelalvabellido@gmail.com.
 
-<h3 align="center" style="margin-top:50px;">Profile Statistics</h3>
+<h3 align="center">Profile Statistics</h3>
 <div align="center" style="display: flex; flex-direction: row;">
  <img height="150" widht="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=false&card_width=455&border_color=30363d&bg_color=00000000" />&nbsp;&nbsp;
- <img height="150" widht="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=false&card_width=535&border_color=30363d&bg_color=00000000" />&nbsp;
+ <img height="150" widht="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=false&card_width=535&border_color=30363d&bg_color=00000000" />
 </div> 
 
 <h3 align="center">Connect with me</h3>
