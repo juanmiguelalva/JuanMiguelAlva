@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🎯 My goal: Adding value to every project I'm involved in, through technological solutions.
 - 🌱 I’m currently learning Laravel, .NET and SQL on [Open Bootcamp](https://open-bootcamp.com/).
 - 📄 My experience has allowed me to develop my ability to solve problems, make decisions and implement solutions.
+- 🎮 One of my hobbies is to spend part of my free time playing video games.
 - ⚡ Fun fact: I'm passionate about graphic design and its role in user-friendly application development.
 - 📫 How to reach me: juanmiguelalvabellido@gmail.com.
 
