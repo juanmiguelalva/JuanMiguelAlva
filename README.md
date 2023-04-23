@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hi, Welcome to my GitHub profile</h1>
 <h3 align="center">My goal: adding value to every project I'm involved in, through technological solutions.</h3>
-<br>
-
 <h3>Get to know a little more about me:</h3>
-<!-- **Get to know a little more about me:** -->
 
 - 🌱 I’m currently learning Laravel and SQL on [Open Bootcamp](https://open-bootcamp.com/) 
 - 📄 My experience has allowed me to develop my ability to solve problems, make decisions and implement solutions.
