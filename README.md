@@ -25,15 +25,13 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; flex-direction: row;">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=false&card_width=460&border_color=30363d&bg_color=00000000" />&nbsp;&nbsp;
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=false&card_width=540&border_color=30363d&bg_color=00000000" />
-<!--  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=transparent&hide_border=false&card_width=1100&border_color=30363d&bg_color=00000000" alt="juanmiguelalva" /> -->
+ <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=transparent&hide_border=false&card_width=1100&border_color=30363d&bg_color=00000000" alt="juanmiguelalva" />
 </div> 
 
 <h3 align="center">Connect with me</h3>
 <div style="margin-bottom: 20px;">
 <p align="center"><a href="https://linkedin.com/in/juanmiguelalva" target="blank"><img align="center" style="padding: 10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="juanmiguelalva" height="30" width="40" /></a><a href="https://discord.gg/jmiguel#7782" target="blank"><img align="center" style="padding: 10px;" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="jmiguel#7782" height="30" width="40" /></a></p>
 </div>
-
-
 <!-- <table border="0">
 <tr>
 <th align="center">
