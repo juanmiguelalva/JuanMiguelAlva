@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Statistics</h3>
 <div align="center" style="display: flex; flex-direction: row;">
- <img width="441" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=true" />
- <img width="441" height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true" />
+ <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=true&card_width=400" />
+ <img width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&card_width=400" />
  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true" alt="juanmiguelalva" />
 </div>
 
