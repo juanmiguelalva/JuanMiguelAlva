@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true" />
  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=771" alt="juanmiguelalva" />
 </div>
-<!-- 
+
 <table border="0">
 <tr>
 <th align="center">
@@ -65,5 +65,5 @@ My GitHub Stats
   <td colspan="2"><img width="824" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=771" alt="juanmiguelalva" /></td>
 </tr>
 </table>
- -->
+
 
