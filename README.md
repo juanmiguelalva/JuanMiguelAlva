@@ -88,10 +88,10 @@ My GitHub Stats
 </tr>
 <tr>
 <th align="center">
-  <img width="356" heigth="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&hide_title=true" alt="juanmiguelalva" />
+  <img width="351" heigth="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&hide_title=true" alt="juanmiguelalva" />
 </th>
 <th align="center">
-<img width="441" heigth="185" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true" alt="juanmiguelalva" />
+<img width="446" heigth="185" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true" alt="juanmiguelalva" />
 </th>
 </tr>
 <tr>
