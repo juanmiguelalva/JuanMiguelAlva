@@ -88,7 +88,7 @@ My GitHub Stats
 </tr>
 <tr>
 <th align="center">
-  <img width="329.5" heigth="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&hide_title=true" alt="juanmiguelalva" />
+  <img width="346" heigth="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&hide_title=true" alt="juanmiguelalva" />
 </th>
 <th align="center">
 <img width="441" heigth="185" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&locale=en&hide_title=true" alt="juanmiguelalva" />
@@ -98,6 +98,6 @@ My GitHub Stats
   <th colspan="2">Streak Stats</th>
 </tr>
 <tr>
-  <td colspan="2"><img width="795.5" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=771" alt="juanmiguelalva" /></td>
+  <td colspan="2"><img width="814" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=771" alt="juanmiguelalva" /></td>
 </tr>
 </table>
