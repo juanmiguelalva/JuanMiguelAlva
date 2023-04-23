@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; flex-direction: row;">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=false&card_width=465&border_color=30363d&bg_color=00000000" />
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=false&card_width=545&border_color=30363d&bg_color=00000000" />
- <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=transparent&hide_border=false&card_width=1100&title_color=ffffff&text_color=ffffff&border_color=30363d" alt="juanmiguelalva" />
+ <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=tdark&hide_border=false&card_width=1100&border_color=30363d&bg_color=00000000" alt="juanmiguelalva" />
 </div> 
 
 <!-- <table border="0">
