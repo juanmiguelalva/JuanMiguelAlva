@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; flex-direction: row;">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=true&card_width=425" />
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&card_width=500" />
- <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=940" alt="juanmiguelalva" />
+ <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=945" alt="juanmiguelalva" />
 </div>
 
 <table border="0">
