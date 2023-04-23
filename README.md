@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center" style="margin-top:50px;">Statistics</h3>
+#Statistics
 <div align="center" style="display: flex; flex-direction: row;">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=true&card_width=465" />
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true&card_width=545" />
