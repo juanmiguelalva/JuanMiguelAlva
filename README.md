@@ -56,4 +56,15 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&locale=en" alt="juanmiguelalva" /></p>
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&" alt="juanmiguelalva" /></p> -->
