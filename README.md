@@ -1,6 +1,4 @@
 <!--### Hi there 👋
-
-
 **JuanMiguelAlva/JuanMiguelAlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,15 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hi, Welcome to my GitHub profile</h1>
-<!-- <h3 align="center">My goal: adding value to every project I'm involved in, through technological solutions.</h3> -->
 <h3 align="center">Get to know a little more about me</h3>
 
-- 🎯 My goal: adding value to every project I'm involved in, through technological solutions.
+- 🎯 My goal: Adding value to every project I'm involved in, through technological solutions.
 - 🌱 I’m currently learning Laravel, .NET and SQL on [Open Bootcamp](https://open-bootcamp.com/) 
 - 📄 My experience has allowed me to develop my ability to solve problems, make decisions and implement solutions.
 - ⚡ Fun fact: I'm passionate about graphic design and its role in user-friendly application development.
 - 📫 How to reach me: **juanmiguelalvabellido@gmail.com**
-
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -35,7 +31,7 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; flex-direction: row;gap: 12px;">
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelalva&theme=dark&layout=compact&hide_border=true" />
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juanmiguelalva&show_icons=true&theme=dark&hide_border=true" />
- <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=771" alt="juanmiguelalva" />
+ <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true" alt="juanmiguelalva" />
 </div>
 
 <table border="0">
