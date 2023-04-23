@@ -95,6 +95,6 @@ My GitHub Stats
 </th>
 </tr>
 <tr>
-  <td colspan="2"><img width="770.5" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=771" alt="juanmiguelalva" /></td>
+  <td colspan="2"><img width="795.5" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmiguelalva&theme=dark&hide_border=true&card_width=771" alt="juanmiguelalva" /></td>
 </tr>
 </table>
