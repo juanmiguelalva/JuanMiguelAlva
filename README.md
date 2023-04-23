@@ -82,18 +82,14 @@ Here are some ideas to get you started:
 <tr>
 <th align="center">
 <img width="441" height="1px">
-<p> 
-<small>
+<p>
 EXAMPLE TEXT
-</small>
 </p>
 </th>
 <th align="center">
 <img width="441" height="1">
-<p> 
-<small>
+<p>
 EXAMPLE TEXT
-</small>
 </p>
 </th>
 </tr>
