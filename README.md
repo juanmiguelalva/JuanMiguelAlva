@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me</h3>
 <div style="margin-bottom: 20px;">
-<p align="center"><a href="https://linkedin.com/in/juanmiguelalva" target="blank"><img align="center" style="padding: 10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="juanmiguelalva" height="30" width="40" /></a><a href="https://discord.gg/jmiguel#7782" target="blank"><img align="center" style="padding: 10px;" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="jmiguel#7782" height="30" width="40" /></a>
+<p align="center"><a href="https://linkedin.com/in/juanmiguelalva" target="blank"><img align="center" style="padding: 10px;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="juanmiguelalva" height="30" width="40" /></a>
+<!--  <a href="https://discord.gg/jmiguel#7782" target="blank"><img align="center" style="padding: 10px;" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="jmiguel#7782" height="30" width="40" /></a> -->
 <a href="https://wa.me/+51973302259" target="blank"><img align="center" style="padding: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="+51973302259" height="36" width="36" /></a></p>
 </div>
 
